@@ -1,0 +1,77 @@
+/** Shopify CDN: Minification failed
+
+Line 77:203 Unexpected "}"
+
+**/
+.rich-text {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  z-index: 1;
+}
+
+.rich-text.rich-text--full-width {
+  max-width: initial;
+  width: 100%;
+}
+
+.rich-text__blocks {
+  margin: auto;
+  /* 2.5rem margin on left & right */
+  width: calc(100% - 5rem / var(--font-body-scale));
+}
+
+.rich-text__blocks * {
+  overflow-wrap: break-word;
+}
+
+.rich-text--full-width .rich-text__blocks {
+  /* 4rem (1.5rem + 2.5rem) margin on left & right */
+  width: calc(100% - 8rem / var(--font-body-scale));
+}
+
+@media screen and (min-width: 750px) {
+/*   .rich-text__blocks {
+    max-width: 50rem;
+  } */
+
+  .rich-text--full-width .rich-text__blocks {
+    /* 7.5rem (5rem + 2.5rem) margin on left & right */
+    width: calc(100% - 15rem);
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .rich-text__blocks {
+    max-width: 78rem;
+  }
+}
+
+/* Blocks */
+
+.rich-text__blocks > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.rich-text__blocks > * + * {
+  margin-top: 2rem;
+}
+
+.rich-text__blocks > * + a {
+  margin-top: 5rem;
+}
+
+/* custom css */
+.rich-text-1:after{background-color:rgba(var(--color-base-accent-1),0.5);}
+.rich-text-1 .rich-text__blocks h2{ font-size:1.8rem;  font-weight:400;  letter-spacing: 7px;    font-family: var(--font-body-family); line-height: calc(1.5 + .3/max(1,var(--font-heading-scale)));}
+.rich-text-1 .rich-text__blocks .rich-text__text p{ line-height: 60px;  text-transform: inherit;  font-size: 5.6rem;   font-family: var(--font-heading-family);   letter-spacing: .02em;   font-weight: 600;}
+.rich-text-1.color-background-2 .button--secondary {  --color-button: var(--color-foreground);   --color-button-text: var(--color-background);  min-width: calc(18rem + var(--buttons-border-width) * 2);  min-height: calc(4.7rem + var(--buttons-border-width) * 2);}
+.rich-text-1.color-background-2 .button--secondary:after{--border-opacity:0;}
+.rich-text-1.color-background-2 .button--secondary:after{display:none;}
+@media screen and (max-width: 425px) {
+.rich-text-1 .rich-text__blocks .rich-text__text p {font-size:5.0rem;}
+}
+@media screen and (max-width: 767px) {
+.rich-text-1 .rich-text__blocks .rich-text__text p{ font-size:3.5rem;}
+}                                                                                                                                                                                                          }

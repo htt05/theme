@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://phono-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://phono-demo.myshopify.com/collections/all.atom"/>
+  <title>Phono (password: buddha)</title>
+  <updated>2019-06-13T23:47:40-12:00</updated>
+  <author>
+    <name>Phono (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852915613796</id>
+    <published>2019-06-13T23:47:40-12:00</published>
+    <updated>2019-06-13T23:47:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/spots-era-5x"/>
+    <title>Spots ERA 5X</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Fonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p11_8cda49a9-ed01-4335-ac14-1fdc05cb9958.jpg?v=1560496637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fonirye<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            102.00 - 105.00
+            <a href="https://phono-demo.myshopify.com/products/spots-era-5x">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Design and Build</b></p>
+<p data-mce-fragment="1">It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Display and Screen</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Hardware and Performance</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>6.20</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Foniry</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915613796</id>
+      <title>6.20 / Black / 3000 mAh Li-Ion</title>
+      <s:price currency="USD">102.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915613796</id>
+      <title>6.22 / Blue / 3000 mAh Li-Ion</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915613796</id>
+      <title>6.30 / Grey / 3000 mAh Li-Ion</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852915023972</id>
+    <published>2019-06-13T23:47:40-12:00</published>
+    <updated>2019-06-13T23:47:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/affinity-r18-pro"/>
+    <title>Affinity R18 Pro</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Fonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p9_abe1dc20-196b-45a9-829a-3a06616387e6.jpg?v=1560496458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fonirye<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            559.19 - 559.20
+            <a href="https://phono-demo.myshopify.com/products/affinity-r18-pro">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>6.56</s:tag>
+    <s:tag>Alloy</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Drivetrain</s:tag>
+    <s:tag>Foniry</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915023972</id>
+      <title>Black / 6.18 / 128 GB+8 GB</title>
+      <s:price currency="USD">559.19</s:price>
+      <s:sku>HG123</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915023972</id>
+      <title>Grey / 6.20 / 128 GB+8 GB</title>
+      <s:price currency="USD">559.20</s:price>
+      <s:sku>HG124</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915023972</id>
+      <title>Blue / 6.30 / 128 GB+8 GB</title>
+      <s:price currency="USD">559.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852915351652</id>
+    <published>2019-06-13T23:46:10-12:00</published>
+    <updated>2019-06-13T23:46:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/tencho-8-1"/>
+    <title>Tencho 8.1</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Lonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p10_dffae547-ff5d-4f69-84e0-7cbc21e31d3c.jpg?v=1560496550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lonirye<br>
+        <strong>Type: </strong>Smartphone<br>
+        <strong>Price: </strong>
+            243.25 - 450.20
+            <a href="https://phono-demo.myshopify.com/products/tencho-8-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>6.22</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Loniry</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>Smartphone</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915351652</id>
+      <title>6.22 / Blue / 4G</title>
+      <s:price currency="USD">243.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915351652</id>
+      <title>6.56 / Black / 4G</title>
+      <s:price currency="USD">450.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852915351652</id>
+      <title>6.30 / Grey / 4G</title>
+      <s:price currency="USD">245.17</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852925640804</id>
+    <published>2018-12-18T19:47:37-12:00</published>
+    <updated>2018-12-18T19:47:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/spots-8-lite"/>
+    <title>Spots 8 Lite</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Narioxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p12_2a7606d0-fa58-46ea-ac4e-eae86976dd08.jpg?v=1560496760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Narioxe<br>
+        <strong>Type: </strong>Smartphone<br>
+        <strong>Price: </strong>
+            206.69 - 206.70
+            <a href="https://phono-demo.myshopify.com/products/spots-8-lite">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Design and Build</b></p>
+<p data-mce-fragment="1">It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Display and Screen</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Hardware and Performance</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>6.30</s:tag>
+    <s:tag>City Accessories</s:tag>
+    <s:tag>Essential</s:tag>
+    <s:tag>Essentials</s:tag>
+    <s:tag>FGFS</s:tag>
+    <s:tag>FGFS Accessories</s:tag>
+    <s:tag>FGFS Series</s:tag>
+    <s:tag>Micro</s:tag>
+    <s:tag>Micro Series</s:tag>
+    <s:tag>Nariox</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:tag>Presta Valve</s:tag>
+    <s:tag>Smartphone</s:tag>
+    <s:tag>Tires and Tubes</s:tag>
+    <s:tag>Tools and Maintenance</s:tag>
+    <s:tag>Tube</s:tag>
+    <s:tag>Tubes</s:tag>
+    <s:tag>Vivo</s:tag>
+    <s:tag>Wheelsets and Accessories</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852925640804</id>
+      <title>6.30 / Black / Dual SIM</title>
+      <s:price currency="USD">206.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852925640804</id>
+      <title>6.18 / Grey / Dual SIM</title>
+      <s:price currency="USD">206.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852925640804</id>
+      <title>6.20 / Slate / Dual SIM</title>
+      <s:price currency="USD">206.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852914434148</id>
+    <published>2018-12-18T19:46:40-12:00</published>
+    <updated>2018-12-18T19:46:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/po-v40-thinq"/>
+    <title>PO V40 ThinQ</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Lonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p8_cd4954dd-ce39-41ab-89ec-b67afb0e815f.jpg?v=1560496334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lonirye<br>
+        <strong>Type: </strong>Smartphone<br>
+        <strong>Price: </strong>
+            401.20 - 401.22
+            <a href="https://phono-demo.myshopify.com/products/po-v40-thinq">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<div class="tertiary">
+<ul></ul>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Design and Build</b></p>
+<p data-mce-fragment="1">It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Display and Screen</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Hardware and Performance</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>6.20</s:tag>
+    <s:tag>Alloy</s:tag>
+    <s:tag>Bars</s:tag>
+    <s:tag>Bars and Stems</s:tag>
+    <s:tag>Bars and Tape</s:tag>
+    <s:tag>Bars Tape Grips and Stems</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Handlebars</s:tag>
+    <s:tag>Loniry</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:tag>Smartphone</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852914434148</id>
+      <title>Black / 6.20 / 4G/5G</title>
+      <s:price currency="USD">401.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852914434148</id>
+      <title>Silver / 6.56 / 4G/5G</title>
+      <s:price currency="USD">401.21</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852914434148</id>
+      <title>Blue / 6.30 / 4G/5G</title>
+      <s:price currency="USD">401.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852913909860</id>
+    <published>2018-12-18T19:46:38-12:00</published>
+    <updated>2018-12-18T19:46:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/affinity-p40-pro"/>
+    <title>Affinity P40 Pro</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Narioxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p7_dd9c198a-6656-4739-9bee-40b506ba7a8c.jpg?v=1560496214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Narioxe<br>
+        <strong>Type: </strong>Smartphone<br>
+        <strong>Price: </strong>
+            350.45 - 365.77
+            <a href="https://phono-demo.myshopify.com/products/affinity-p40-pro">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>6.18</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brake Pad</s:tag>
+    <s:tag>Brake Pads</s:tag>
+    <s:tag>Brakes</s:tag>
+    <s:tag>Nariox</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:tag>Safety Gear</s:tag>
+    <s:tag>Smartphone</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913909860</id>
+      <title>Black / 6.18 / Dual SIM</title>
+      <s:price currency="USD">364.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913909860</id>
+      <title>Grey / 6.20 / Dual SIM</title>
+      <s:price currency="USD">365.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913909860</id>
+      <title>Blue / 6.30 / Dual SIM</title>
+      <s:price currency="USD">350.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852913385572</id>
+    <published>2018-12-18T19:46:35-12:00</published>
+    <updated>2018-12-18T19:46:35-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/spots-y93-1815"/>
+    <title>Spots Y93 1815</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Narioxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p6_6b7de771-84d6-46c8-b6df-e5dc70fc3757.jpg?v=1560496097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Narioxe<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            219.55 - 221.55
+            <a href="https://phono-demo.myshopify.com/products/spots-y93-1815">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>6.18</s:tag>
+    <s:tag>Alloy</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brake Parts</s:tag>
+    <s:tag>Brakes</s:tag>
+    <s:tag>Essential</s:tag>
+    <s:tag>Essentials</s:tag>
+    <s:tag>Nariox</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:tag>Safety Gear</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913385572</id>
+      <title>6.56 / Grey / 4G</title>
+      <s:price currency="USD">219.55</s:price>
+      <s:sku>SD134</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913385572</id>
+      <title>6.30 / Black / 4G</title>
+      <s:price currency="USD">220.55</s:price>
+      <s:sku>SD135</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852913385572</id>
+      <title>6.22 / Cerulean / 4G</title>
+      <s:price currency="USD">221.55</s:price>
+      <s:sku>SD137</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852911353956</id>
+    <published>2018-12-18T19:46:18-12:00</published>
+    <updated>2018-12-18T19:46:18-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/spectronic-xr"/>
+    <title>Spectronic XR</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Lonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p5.jpg?v=1560504758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lonirye<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            935.03 - 935.05
+            <a href="https://phono-demo.myshopify.com/products/spectronic-xr">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<div class="dt-sc-pro-description-wrap">
+<div class="dt-sc-pro-desc-content">
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Design and Build</b></p>
+<p data-mce-fragment="1">It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Display and Screen</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Hardware and Performance</b><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p>
+</div>
+</div>
+<div class="dt-sc-pro-spec-wrap">
+<div class="dt-sc-pro-spce-content" style="text-align: start;">
+<h3></h3>
+</div>
+<div class="dt-sc-pro-spec-row dt-sc-w-50">
+<div class="dt-sc-pro-spce-title"></div>
+</div>
+<div class="dt-sc-pro-spec-row dt-sc-w-50"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>6.22</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Bars and Tape</s:tag>
+    <s:tag>Bars Tape Grips and Stems</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Celeste</s:tag>
+    <s:tag>Glow</s:tag>
+    <s:tag>Glow In The Dark</s:tag>
+    <s:tag>Glow Series</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Grips and Tape</s:tag>
+    <s:tag>Handlebar Tape</s:tag>
+    <s:tag>Loniry</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Parts</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Tape</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852911353956</id>
+      <title>Grey / 6.22 / 128 GB+8 GB</title>
+      <s:price currency="USD">935.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852911353956</id>
+      <title>Black / 6.20 / 128 GB+8 GB</title>
+      <s:price currency="USD">935.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852911353956</id>
+      <title>Mauve / 6.56 / 128 GB+8 GB</title>
+      <s:price currency="USD">935.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852909125732</id>
+    <published>2018-12-18T19:46:13-12:00</published>
+    <updated>2018-12-18T19:46:13-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/tencho-f12-pro"/>
+    <title>Tencho F12 Pro</title>
+    <s:type>Smartphone</s:type>
+    <s:vendor>Fonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p4.jpg?v=1560495855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fonirye<br>
+        <strong>Type: </strong>Smartphone<br>
+        <strong>Price: </strong>
+            290.00 - 292.00
+            <a href="https://phono-demo.myshopify.com/products/tencho-f12-pro">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>6.22</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Essential</s:tag>
+    <s:tag>Essentials</s:tag>
+    <s:tag>Fenders and Chain Guards</s:tag>
+    <s:tag>Foniry</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Oppo</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Saddles and Seatposts</s:tag>
+    <s:tag>Seat</s:tag>
+    <s:tag>Smartphone</s:tag>
+    <s:tag>Weather</s:tag>
+    <s:tag>Wheelsets and Accessories</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852909125732</id>
+      <title>Black / 6.22 / Dual SIM</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku>SD123</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852909125732</id>
+      <title>Blue / 6.56 / Dual SIM</title>
+      <s:price currency="USD">291.00</s:price>
+      <s:sku>SD126</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852909125732</id>
+      <title>Grey / 6.30 / Dual SIM</title>
+      <s:price currency="USD">292.00</s:price>
+      <s:sku>SD127</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852908372068</id>
+    <published>2018-12-18T19:46:11-12:00</published>
+    <updated>2018-12-18T19:46:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/tencho-10-lite"/>
+    <title>Tencho 10 Lite</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Narioxe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p3.jpg?v=1560495691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Narioxe<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            79.00 - 80.00
+            <a href="https://phono-demo.myshopify.com/products/tencho-10-lite">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>6.56</s:tag>
+    <s:tag>Adjustable</s:tag>
+    <s:tag>Alloy</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Bars and Stems</s:tag>
+    <s:tag>Bars and Tape</s:tag>
+    <s:tag>Bars Tape Grips and Stems</s:tag>
+    <s:tag>Nariox</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908372068</id>
+      <title>Black / 6.56 / 128GB+8GB</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908372068</id>
+      <title>Blue / 6.30 / 128GB+8GB</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908372068</id>
+      <title>Blue / 7.00 / 128GB+8GB</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852908077156</id>
+    <published>2018-12-18T19:46:11-12:00</published>
+    <updated>2018-12-18T19:46:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/tencho-7-3"/>
+    <title>Tencho 7.3</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Lonirye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p2.jpg?v=1613556381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lonirye<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            125.70 - 145.50
+            <a href="https://phono-demo.myshopify.com/products/tencho-7-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated colors, which when combined with TFT LCD Display, give it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.20-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>6.56</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Essential</s:tag>
+    <s:tag>Essentials</s:tag>
+    <s:tag>Google</s:tag>
+    <s:tag>Loniry</s:tag>
+    <s:tag>Nariox</s:tag>
+    <s:tag>Safety Gear</s:tag>
+    <s:tag>Tool</s:tag>
+    <s:tag>Tools</s:tag>
+    <s:tag>Tools and Maintenance</s:tag>
+    <s:tag>Wrench</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908077156</id>
+      <title>Black / 6.56 / Dual Sim</title>
+      <s:price currency="USD">145.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908077156</id>
+      <title>Grey / 6.30 / Dual Sim</title>
+      <s:price currency="USD">139.81</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852908077156</id>
+      <title>Grey / 7.15 / Dual Sim</title>
+      <s:price currency="USD">125.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/products/1852907782244</id>
+    <published>2018-12-18T19:46:10-12:00</published>
+    <updated>2018-12-18T19:46:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/products/affinity-m20"/>
+    <title>Affinity  M20</title>
+    <s:type>Android Phone</s:type>
+    <s:vendor>Foniry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0104/6917/9492/products/p1.jpg?v=1560495491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foniry<br>
+        <strong>Type: </strong>Android Phone<br>
+        <strong>Price: </strong>
+            145.79 - 188.49
+            <a href="https://phono-demo.myshopify.com/products/affinity-m20">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Mobile phones are pivotal in our daily lives. Living without a mobile phone is challenging in this contemporary environment. A mobile phone is a broadband network that is a compact, small device used to send and receive speech, video, and other data types. Mobile phone usage offers additional benefits and features.</span></p>
+<p><b>Design and Build</b></p>
+<p>It distinguishes out from the other smartphone competitors because of its fresh, sophisticated color Ocean Blue, which when combined with TFT LCD Display, gives it a luxurious appearance. Its approximate weight is <span style="font-weight: 400;" data-mce-style="font-weight: 400;">195.00 g dimensions are 164.5 x 76.9 x 8.4mm making it convenient and comfortable to hold. This phone includes Bluetooth and GPS connectivity as well as expandable storage.</span></p>
+<p><b>Display and Screen</b><br></p>
+<p>A 6.30-inch screen with a resolution of 1080x2340 pixels displays all types of entertainment great, and the colors appear to be rather realistic. Standard Wi-Fi is supported up to 802.11 b/g/n with Type-C USB. As its vendor Sensors like Face unlock, Fingerprint, Proximity and Accelerometer are supported. The speaker grill and audio jack are located at the bottom.<br></p>
+<p><b>Hardware and Performance</b><br></p>
+<p>The latest smartphone features a 14nm chipset-based 1.8GHz Octa-core Exynos 7904 processor with 4GB of RAM and 64GB of storage. <span style="font-weight: 400;" data-mce-style="font-weight: 400;">The 5000mAh battery is compatible with the Aspect ratio 19.5:9.The phone is among the best performances in its category because of this combination. On low-end hardware, the Experience UI for phones has been tuned to operate without a hitch. The icons and appearance are nearly identical to One UI. The software is reliable, sophisticated, and enjoyable. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>6.30</s:tag>
+    <s:tag>Android Phone</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Foniry</s:tag>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852907782244</id>
+      <title>Black / 6.30 / 128 GB+8 GB</title>
+      <s:price currency="USD">145.79</s:price>
+      <s:sku>AS2900</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852907782244</id>
+      <title>Blue / 6.18 / 128 GB+8 GB</title>
+      <s:price currency="USD">155.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://phono-demo.myshopify.com/products/1852907782244</id>
+      <title>Blue / 6.40 / 128 GB+8 GB</title>
+      <s:price currency="USD">188.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

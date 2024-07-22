@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://phono-demo.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://phono-demo.myshopify.com/blogs/news.atom"/>
+  <title>Phono (password: buddha) - News</title>
+  <updated>2019-05-01T23:45:00-12:00</updated>
+  <author>
+    <name>Phono (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-tablet-playstore</id>
+    <published>2019-05-01T23:45:00-12:00</published>
+    <updated>2021-05-24T01:13:26-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-tablet-playstore"/>
+    <title>The tablet playstore</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Malesuada pellentesque elit eget gravida cum sociis. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat ellente.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-tablet-playstore">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-iphone-for-regular-use</id>
+    <published>2019-05-01T23:45:00-12:00</published>
+    <updated>2021-05-19T22:07:15-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-iphone-for-regular-use"/>
+    <title>The iPhone for regular use</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Commodo quis imperdiet massa tincidunt. Felis eget velit aliquet sagittis id consectetur purus ut. Amet luctus venenatis lectus magna fring.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-iphone-for-regular-use">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-responsive-comfort-screens</id>
+    <published>2019-05-01T23:38:00-12:00</published>
+    <updated>2021-05-24T01:17:26-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-responsive-comfort-screens"/>
+    <title>The responsive comfort screens</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Mattis molestie a iaculis at erat pellentesque adipiscing commodo. In nisl nisi scelerisque eu. Tortor id aliquet lectus proin nibh nisl. </span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-responsive-comfort-screens">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolora
+<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>
+e magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/amazing-weather-report</id>
+    <published>2019-05-01T23:38:00-12:00</published>
+    <updated>2021-05-24T01:14:35-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/amazing-weather-report"/>
+    <title>Amazing weather report</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Tellus at urna condimentum mattis pellentesque id nibh. Mauris cursus mattis molestie a iaculis at erat. Netus et malesuada fames ac turpis. </span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/amazing-weather-report">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-8d-effect-headphones</id>
+    <published>2019-05-01T23:38:00-12:00</published>
+    <updated>2021-05-19T22:05:48-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-8d-effect-headphones"/>
+    <title>The 8D effect headphones</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Consequat id porta nibh venenatis. In fermentum et sollicitudin ac orci phasellus. Pellentesque diam volutpat commodo sed egestas egestas reyeren. </span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-8d-effect-headphones">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-hd-wallpaper-for-front-page</id>
+    <published>2019-05-01T23:38:00-12:00</published>
+    <updated>2021-05-19T22:05:23-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-hd-wallpaper-for-front-page"/>
+    <title>The HD wallpaper for front page</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Neque convallis a cras semper auctor neque vitae. Leo duis ut diam qua.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-hd-wallpaper-for-front-page">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/amazing-camera-pixel</id>
+    <published>2019-05-01T23:38:00-12:00</published>
+    <updated>2021-05-24T01:17:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/amazing-camera-pixel"/>
+    <title>Amazing camera pixel</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Justo eget magna fermentum iaculis eu. Ut consequat semper viverra nam libero justo laoreet sit amet. Viverra aliquet eget sit amet.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/amazing-camera-pixel">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-man-accessing-the-twitter</id>
+    <published>2019-05-01T23:37:00-12:00</published>
+    <updated>2021-05-19T22:04:22-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-man-accessing-the-twitter"/>
+    <title>The man accessing the twitter</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Accumsan lacus vel facilisis volutpat. Posuere urna nec tincidunt praesent. Tempus iaculis urna id volutpat. Sapien nec sagittis aliquam male.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-man-accessing-the-twitter">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/user-friendly-android-mobile</id>
+    <published>2019-05-01T23:34:00-12:00</published>
+    <updated>2021-05-19T22:03:49-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/user-friendly-android-mobile"/>
+    <title>User friendly android mobile</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Aliquam sem et tortor consequat id porta nibh venenatis cras. Mollis aliquam ut porttitor leo a diam sollicitudin. Venenatis lectus magna fringilla urn.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/user-friendly-android-mobile">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/the-android-security-apps</id>
+    <published>2019-05-01T23:34:00-12:00</published>
+    <updated>2021-05-19T22:03:02-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/the-android-security-apps"/>
+    <title>The android security apps</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum. Elementum nisi quis.</span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/the-android-security-apps">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/elegant-iphone-for-all-uses</id>
+    <published>2019-05-01T23:27:00-12:00</published>
+    <updated>2021-05-19T22:02:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/elegant-iphone-for-all-uses"/>
+    <title>Elegant iPhone for all uses</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Maecenas volutpat blandit aliquam etiam. Integer malesuada nunc vel risus commodo viverra maecenas. Gravida quis blandit turpis cursus in. </span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/elegant-iphone-for-all-uses">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://phono-demo.myshopify.com/blogs/news/best-android-security-system</id>
+    <published>2019-05-01T23:22:00-12:00</published>
+    <updated>2021-05-19T22:02:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://phono-demo.myshopify.com/blogs/news/best-android-security-system"/>
+    <title>Best android security system</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices. In massa tempor nec feugiat nisl pretium fusce id. Sit amet dictum sit amet. </span><p><a class="read-more" href="https://phono-demo.myshopify.com/blogs/news/best-android-security-system">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5><em><span>Risus in hendrerit gravida rutrum quisque</span>?</em></h5>
+<p><strong>Violette</strong>:<span> </span><span>A arcu cursus vitae congue. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sagittis id consectetur purus ut faucibus pulvinar. Nec nam aliquam sem et tortor consequat. Non enim praesent elementum facilisis leo vel fringilla. Pretium nibh ipsum consequat nisl. Non arcu risus quis varius quam quisque id diam vel.</span></p>
+<p><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper arcu risus quis varius quam</span><span> </span>:</p>
+<ul>
+<li><span>Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Scelerisque varius morbi enim nunc faucibus. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. </span></li>
+<li>
+<span>Varius morbi enim nunc faucibus a pellentesque sit amet. Molestie at elementum eu facilisis sed. Faucibus nisl tincidunt eget nullam. Sed viverra tellus in hac habitasse.</span><span>Posuere ac ut consequat semper pellentesque sit amet viverra nam. </span>
+</li>
+</ul>
+<h5><strong>Tortor dignissim convallis aenean et tortor at risus euismod nisi porta lorem mollis.</strong></h5>
+<p><strong>Leo</strong>:<span> </span><span>Commodo odio aenean sed adipiscing diam donec. Erat imperdiet sed euismod nisi porta lorem mollis aliquam.</span>:</p>
+<ol>
+<li><span>Sed pulvinar proin gravida hendrerit lectus a. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam sit amet nisl purus in mollis nunc sed. Commodo viverra maecenas accumsan lacus vel facilisis. Fermentum odio eu feugiat pretium nibh ipsum consequat.</span></li>
+<li><span>Suspendisse interdum consectetur libero id faucibus. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In dictum non consectetur a erat nam at lectus urna. Id eu nisl nunc mi ipsum faucibus. Consectetur adipiscing elit duis tristique. </span></li>
+<li>
+<span>Consequat ac felis donec et odio pellentesque diam volutpat. Consectetur libero id faucibus nisl tincidunt eget nullam. Nisl pretium fusce id velit. </span><span>Quis blandit turpis cursus in hac habitasse. </span>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22VNHN%22%2C%22reg%22%3A%22%22%7D
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZAmdmLLAAH_ZdmCm_eJt_fuEs2aXkAv94QBZb53Zvj-I_xrwCSBRXriNpqqNCGE1Z5pp75PA7XOa988HFIopzHMTipLupZ5fd995A==:
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	localization	VN
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	b9eeb085-31e9-4a5a-a283-dcdeaddc1755
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	a614869e-ac6a-4542-885b-7c536e1d675a
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	c3f374c5-4ede-4c80-9b61-2bf362f9adaa
+phono-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
